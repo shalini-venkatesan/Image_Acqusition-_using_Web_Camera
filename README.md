@@ -106,24 +106,24 @@ cv2.destroyAllWindows()
 ```
 ## Output
 ### i) Write the frame as JPG image
-![Screenshot 2024-02-27 110255](https://github.com/shalini-venkatesan/Image_Acqusition-_using_Web_Camera/assets/118720291/63a3878f-d0df-4ce7-94d1-aca9050d3789)
+![Screenshot 2024-02-27 110255](https://github.com/shalini-venkatesan/Image_Acqusition-_using_Web_Camera/assets/118720291/7f262e05-9cb3-4631-bafe-9b415a6e3335)
 
 </br>
 </br>
 
 ### ii) Display the video
-![Screenshot 2024-02-27 111300](https://github.com/shalini-venkatesan/Image_Acqusition-_using_Web_Camera/assets/118720291/560b046c-1aa3-483c-b70f-492c8131315f)
+![Screenshot 2024-02-27 111300](https://github.com/shalini-venkatesan/Image_Acqusition-_using_Web_Camera/assets/118720291/40230d63-1c8b-43c4-9491-2008133c6720)
 
 </br>
 </br>
 
 ### iii) Display the video by resizing the window
-![Screenshot 2024-02-27 111521](https://github.com/shalini-venkatesan/Image_Acqusition-_using_Web_Camera/assets/118720291/0e124af0-0854-4a97-ad2b-9319ea8d61af)
+![Screenshot 2024-02-27 111521](https://github.com/shalini-venkatesan/Image_Acqusition-_using_Web_Camera/assets/118720291/0c7eb1ee-dcc5-47a0-a54a-1d5e4d991b41)
 </br>
 </br>
 
 ### iv) Rotate and display the video
-![Screenshot 2024-02-27 111730](https://github.com/shalini-venkatesan/Image_Acqusition-_using_Web_Camera/assets/118720291/75fcd63e-387c-4705-abe7-fbbbbec5b3d2)
+![Screenshot 2024-02-27 111730](https://github.com/shalini-venkatesan/Image_Acqusition-_using_Web_Camera/assets/118720291/5a337d08-b2c0-41eb-9d61-3d8346e735b7)
 </br>
 </br>
 
