@@ -44,7 +44,7 @@ import cv2
 viedoCaptureObject=cv2.VideoCapture(0)
 while(True):
     ret,frame=viedoCaptureObject.read()
-    cv2.imwrite("Fer.jpg",frame)
+    cv2.imwrite("Shalini.jpg",frame)
     result=False
 viedoCaptureObject.release()
 cv2.destroyAllWindows()
@@ -56,7 +56,7 @@ import cv2
 cap=cv2.VideoCapture(0)
 while True:
     ret,frame=cap.read()
-    cv2.imshow('Car',frame)
+    cv2.imshow('Art',frame)
     if cv2.waitKey(1)==ord('q'):
         break
 cap.release()
@@ -77,7 +77,7 @@ while True:
     image[height//2:, :width//2]=smaller_frame
     image[:height//2, width//2:]=smaller_frame
     image[height//2:, width//2:]=smaller_frame
-    cv2.imshow('212222230027_dario',image)
+    cv2.imshow('212222240096_shalini',image)
     if cv2.waitKey(1)==ord('q'):
         break
 cap.release()
@@ -98,7 +98,7 @@ while True:
     image[height//2:, :width//2]=smaller_frame
     image[:height//2, width//2:]=cv2.rotate(smaller_frame,cv2.ROTATE_180)
     image[height//2:, width//2:]=smaller_frame
-    cv2.imshow('212222230027_dario',image)
+    cv2.imshow('212222240096_shalini',image)
     if cv2.waitKey(1)==ord('q'):
         break
 cap.release()
